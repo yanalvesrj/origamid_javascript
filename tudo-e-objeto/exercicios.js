@@ -47,7 +47,7 @@ Queryselector
 } */
 
 
-/* Métodos são propriedade que possui uma função no local do seu valor. EXEMPLO:
+/* Método é uma propriedade que possui uma função no local do seu valor. EXEMPLO:
 var = pessoa {
     nome: yan,
     idade: function{}
